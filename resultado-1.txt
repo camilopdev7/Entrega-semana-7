@@ -1,0 +1,4 @@
+Procesos: 2
+Iteraciones totales: 9000000000
+PI: 3.141592653473591
+Tiempo: 4.690821 segundos
